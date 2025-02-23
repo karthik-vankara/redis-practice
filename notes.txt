@@ -1,0 +1,8 @@
+Redis:
+- brew services list
+- brew services start redis
+- brew services stop redis
+
+Start Redis server before application start to accept data from application
+- redis-server
+
